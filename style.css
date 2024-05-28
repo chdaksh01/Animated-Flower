@@ -10,6 +10,10 @@
   --dark-color: #000000;
 }
 
+.Name{
+  color: white;
+}
+
 body {
   display: flex;
   align-items: flex-end;
