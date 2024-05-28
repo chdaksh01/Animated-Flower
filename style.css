@@ -12,6 +12,7 @@
 
 .Name{
   color: white;
+  animation-name: mymove;
   animation-duration: 4s;
   animation-iteration-count: infinite;
 }
@@ -38,7 +39,7 @@ body {
 }
 
 .flowers {
-/*   position: relative; */
+  position: relative;
   transform: scale(0.9);
 }
 
